@@ -1,0 +1,17 @@
+//
+//  main.m
+//  iPhone_1
+//
+//  Created by Michał Listowski on 27.05.2014.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "CMAppDelegate.h"
+
+int main(int argc, char * argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([CMAppDelegate class]));
+    }
+}
